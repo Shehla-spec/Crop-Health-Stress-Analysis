@@ -27,7 +27,7 @@ git clone [https://github.com/YOUR_USERNAME/Crop-Health-Analysis](https://github
 cd Crop-Health-Analysis
 pip install -r requirements.txt
 
-## 📂 Analytical Pipeline
+### 📂 Analytical Pipeline
 The core logic utilizes a Random Forest Regressor to extract feature importance, identifying which abiotic stressors dictate yield decline.
 from src.analysis import validate_stress
 # Run the validation on the 212k record dataset
@@ -35,7 +35,7 @@ model_results = validate_stress("data/crop_health_data.csv")
 
 ---
 
-📂 Repository Structure
+### 📂 Repository Structure
 .
 ├── src/                  # Core Analytical Logic
 │   └── analysis.py       # ML Pipeline (Random Forest)
@@ -48,11 +48,11 @@ model_results = validate_stress("data/crop_health_data.csv")
 
 ---
 
-📊 Data Access (73.5 MB)
+### 📊 Data Access (73.5 MB)
 Due to GitHub's browser upload limitations, the raw CSV (212k records) is hosted via Kaggle for stability and high-speed access.
 https://www.kaggle.com/datasets/datasetengineer/crop-health-and-environmental-stress-dataset/discussion?sort=hotness
 
 ---
 
-Author
+###  Author
 Shehla Sajjad BSc (Hons) Botany |Plant Physiology Specialization | Climate Resilience
