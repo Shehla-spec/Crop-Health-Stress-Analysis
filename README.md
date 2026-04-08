@@ -21,7 +21,7 @@ To set up the research environment, ensure you have Python 3.8+ installed:
 ```bash
 git clone [https://github.com/YOUR_USERNAME/Crop-Health-Analysis](https://github.com/YOUR_USERNAME/Crop-Health-Analysis)
 cd Crop-Health-Analysis
-pip install pandas scikit-learn seaborn matplotlib
+```pip install pandas scikit-learn seaborn matplotlib```
 
 ---
 
