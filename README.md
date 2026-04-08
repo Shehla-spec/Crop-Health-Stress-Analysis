@@ -19,11 +19,13 @@ While initiatives like PlantVillage focus on visual symptoms, this dataset targe
 * **Python 3.8+** (Optimized for modern data pipelines)
 * **Libraries:** `pandas`, `scikit-learn`, `seaborn`, `matplotlib`
 
-### Installation
+## Installation
 ```bash
 git clone [https://github.com/YOUR_USERNAME/Crop-Health-Analysis](https://github.com/YOUR_USERNAME/Crop-Health-Analysis)
 cd Crop-Health-Analysis
 pip install -r requirements.txt
+---
+
 ### 📂 Analytical Pipeline
 
 The core logic utilizes a **Random Forest Regressor** to extract feature importance, identifying which abiotic stressors dictate yield decline.
