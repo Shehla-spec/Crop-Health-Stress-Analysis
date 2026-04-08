@@ -25,7 +25,7 @@ pip install pandas scikit-learn seaborn matplotlib
 
 ---
 
-## 📂 Analytical Pipeline
+## **📂 Analytical Pipeline**
 * **The core logic utilizes a Random Forest Regressor to extract feature importance, identifying which abiotic stressors dictate yield decline.**
 
 Python
@@ -36,14 +36,16 @@ model_results = validate_stress("data/crop_health_data.csv")
 
 ---
 
-##  📊 Data Access (73.5 MB)
+## **📊 Data Access (73.5 MB)**
+
 * **Note**: Due to GitHub's browser upload limitations, the raw CSV is hosted via Kaggle for stability and high-speed access.
 
 Dataset Link: https://www.kaggle.com/datasets/datasetengineer/crop-health-and-environmental-stress-dataset/discussion?sort=hotness
 
 ---
 
-## 👨‍🔬 Author Information
+## **👨‍🔬 Author Information**
+
 Academic Researcher Focus: Botany | Plant Physiology | Climate Resilience
 
 Education: B.Sc. (Hons) Botany, University of Peshawar 
